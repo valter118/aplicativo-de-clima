@@ -1,4 +1,4 @@
-"comandos para executar" 
-git clone "URL"
-npm install
-npm run start
+#  comandos para executar
+# git clone "URL"
+# npm install
+# npm run start
