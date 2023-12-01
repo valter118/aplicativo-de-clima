@@ -1,1 +1,4 @@
-"# aplicativo-de-clima" 
+"comandos para executar" 
+git clone "URL"
+npm install
+npm run start
